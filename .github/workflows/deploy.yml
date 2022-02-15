@@ -1,5 +1,4 @@
 name: Deploy to GitHub Pages
-description: Builds and deploys the static website to GitHub Pages
 on:
   push:
     branches:
