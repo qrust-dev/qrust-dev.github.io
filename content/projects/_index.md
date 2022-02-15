@@ -8,4 +8,4 @@ date=2022-02-14
 
 # example projects
 
-- [The Quantinomicon](./quantinomocon/): The dark arts of making a quantum language.
+- [The Quantinomicon](/quantinomocon/): The dark arts of making a quantum language.
