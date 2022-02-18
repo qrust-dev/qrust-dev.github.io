@@ -6,6 +6,14 @@ description="Rust in Quantum projects"
 date=2022-02-14
 +++
 
-# example projects
+# quantum projects in rust
+
+Have an interesting quantum project that uses Rust that you'd like to add? Please go on and make a PR on the [GitHub source for this post](https://github.com/qrust-dev/qrust-dev.github.io/blob/main/content/projects/_index.md)!
+
+## simulators
+
+- [The Quick Quantum Simulator](https://github.com/swernli/quick-quantum-sim/)
+
+## tutorials / walkthroughs / cursed books
 
 - [The Quantinomicon](/quantinomocon/): The dark arts of making a quantum language.
