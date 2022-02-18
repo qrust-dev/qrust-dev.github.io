@@ -12,7 +12,7 @@ Have an interesting quantum project that uses Rust that you'd like to add? Pleas
 
 ## simulators
 
-- [The Quick Quantum Simulator](https://github.com/swernli/quick-quantum-sim/)
+- [The Quick Quantum Simulator](https://github.com/swernli/quick-quantum-sim/): Full- and sparse-state simulators written in Rust, using [`ndarray`](https://github.com/rust-ndarray/ndarray-linalg/) and [`rayon`](https://github.com/rayon-rs/rayon) together for efficient numerical computing.
 
 ## tutorials / walkthroughs / cursed books
 
