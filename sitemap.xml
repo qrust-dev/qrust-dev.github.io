@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://qrust.dev/</loc>
+    </url>
+    <url>
+        <loc>https://qrust.dev/about/</loc>
+        <lastmod>2019-03-26</lastmod>
+    </url>
+    <url>
+        <loc>https://qrust.dev/categories/</loc>
+    </url>
+    <url>
+        <loc>https://qrust.dev/categories/intro/</loc>
+    </url>
+    <url>
+        <loc>https://qrust.dev/contact/</loc>
+    </url>
+    <url>
+        <loc>https://qrust.dev/page/1/</loc>
+    </url>
+    <url>
+        <loc>https://qrust.dev/projects/</loc>
+    </url>
+    <url>
+        <loc>https://qrust.dev/tags/</loc>
+    </url>
+    <url>
+        <loc>https://qrust.dev/tags/intro/</loc>
+    </url>
+    <url>
+        <loc>https://qrust.dev/tags/rust/</loc>
+    </url>
+</urlset>
